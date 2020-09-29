@@ -1,0 +1,2 @@
+<a href="<?php echo e(route('userbook')); ?>" class="btn btn-primary">My Booking Information</a>
+<a href="#" class="btn btn-primary">My Transaction</a><?php /**PATH /opt/lampp/htdocs/travel/resources/views/user/partials/options.blade.php ENDPATH**/ ?>

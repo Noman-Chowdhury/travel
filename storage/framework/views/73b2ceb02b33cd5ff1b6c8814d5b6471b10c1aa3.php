@@ -1,0 +1,1 @@
+<?php /**PATH /opt/lampp/htdocs/travel/resources/views/frontend/layouts/about.blade.php ENDPATH**/ ?>
